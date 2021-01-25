@@ -1,4 +1,4 @@
-const title ="ciekawe czy działa, w co wątpięgit ad ";
+const title ="Maria antonia  ";
 
 // zmienne
 var y = 1;
